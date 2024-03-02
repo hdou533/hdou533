@@ -1,4 +1,7 @@
-Hi there! 
+
+
+Hi there!👋
+
 
 I'm Sally, a Software Developer with a passion for designing beautiful UI.
 
@@ -8,15 +11,23 @@ I'm Sally, a Software Developer with a passion for designing beautiful UI.
 
 💬 sallydou2023@gmail.com
 
-<br>
+###
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hdou533&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hdou533&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
----
+###
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=hdou533&show_icons=true&locale=en&theme=cobalt" alt="hdou533" />
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdou533&layout=compact&theme=cobalt" alt=hdou533 />
+###
 
-<br> 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
