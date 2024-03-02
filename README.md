@@ -13,22 +13,14 @@ I'm Sally, a Software Developer with a passion for designing beautiful UI.
 
 ### Skills: 
 
-JavaScript, Python, PHP
-
-React, Next.js, Node.js, Tailwind, MongoDB, SQL
-
-Git, Jira
+JavaScript, React, Next.js, Node.js, Tailwind, MongoDB, SQL, Python, PHP, Git, Jira
 
 
 
-
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hdou533&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hdou533&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hdou533&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hdou533&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ---
