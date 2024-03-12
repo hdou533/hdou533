@@ -11,6 +11,8 @@ I'm Sally, a Software Developer with a passion for designing beautiful UI.
 
 💬 sallydou2023@gmail.com
 
+😀 Visit [my portfolio](https://portfolio-hdou533.vercel.app/) to learn more about me
+
 ###
 
 <div align="left">
