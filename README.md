@@ -13,6 +13,14 @@ I'm Sally, a Software Developer with a passion for designing beautiful UI.
 
 😀 Visit [my portfolio](https://portfolio-hdou533.vercel.app/) to learn more about me
 
+#### Technical skills
+
+**Frontend**:React, Tailwind CSS, Responsive Design, Bootstrap
+
+**Backend**: Express, Next.js, Node.js, Python, Flask, RESTFUL API, SQL, MongoDB
+
+**Development Methodology**: Agile(Scrum), Jira
+
 ###
 
 <div align="left">
