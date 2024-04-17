@@ -15,7 +15,7 @@ I'm Sally, a Software Developer with a passion for designing beautiful UI.
 
 #### Technical skills
 
-**Frontend**:React, Tailwind CSS, Responsive Design, Jinja, Bootstrap, JavaScript, CSS, HTML
+**Frontend**: React, Tailwind CSS, Responsive Design, Jinja, Bootstrap, JavaScript, CSS, HTML
 
 **Backend**: PHP, Node.js, Express, Python, Flask, REST API, SQL, MongoDB
 
