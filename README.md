@@ -8,13 +8,15 @@
 
 ### ✨ Quick Facts
 
-- 🔭 I’m currently learning Next.js and OOP
+- 🔭 I’m currently learning Next.js and Object-Oriented Programming (OOP)
 
-- 🤝 I'm looking to collaborate on any full-stack project which seems interesting  
+- 🤝 I'm looking to collaborate on any interesting full-stack projects
 
-- 💬 Ask me anything
+- 💬 Feel free to ask me anything
 
 - 😀 Visit [my portfolio](https://portfolio-sallydou.vercel.app/) to learn more about me
+
+
 
 ### 🛠️ Languages and Tools:
 
