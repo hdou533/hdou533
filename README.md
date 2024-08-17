@@ -1,6 +1,6 @@
 ## Hi there, I'm Sally 👋👩‍💻
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/hongnan-dou/)](https://linkedin.com/in/brennankbrown/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/hongnan-dou/)](https://linkedin.com/in/hongnan-dou/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sallydou2023@gmail.com "Connect via Email")
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23CC6699?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sallydddous/)
 
