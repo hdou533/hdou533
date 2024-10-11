@@ -8,7 +8,7 @@
 
 ### ✨ Quick Facts
 
-- 🔭 I’m currently learning Next.js and Object-Oriented Programming (OOP)
+- 🔭 I’m currently learning C# .Net
 
 - 🤝 I'm looking to collaborate on any interesting full-stack projects
 
