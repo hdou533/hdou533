@@ -14,8 +14,6 @@
 
 - 💬 Feel free to ask me anything
 
-- 😀 Visit [my portfolio](https://www.sallydou.dev/) to learn more about me
-
 
 
 ### 🛠️ Languages and Tools:
