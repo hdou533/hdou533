@@ -14,7 +14,7 @@
 
 - 💬 Feel free to ask me anything
 
-- 😀 Visit [my portfolio](sallydou.dev) to learn more about me
+- 😀 Visit [my portfolio](https://www.sallydou.dev/) to learn more about me
 
 
 
