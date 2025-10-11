@@ -8,7 +8,7 @@
 
 ### ✨ Quick Facts
 
-- 🔭 I’m currently learning C# .Net
+- 🔭 I’m currently learning Cloud Engineering
 
 - 🤝 I'm looking to collaborate on any interesting full-stack projects
 
